@@ -1,0 +1,9 @@
+#mortTable, #mortTable td, #mortTable th {
+	border: thin solid #808080;
+}
+#mortTable td, #mortTable th {
+	padding: .1em .3em;
+}
+#mortTable tbody {
+	border: thin solid green;
+}
